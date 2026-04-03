@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+}
+
+
+
+h1{
+    color: burlywood;
+}
+h3{
+    color: blue;
+}
+
+input[type="submit"]{
+    color: black;
+    background-color: darkslategrey;
+}
+input[type="submit"]:hover{
+    font-size: medium;
+}
+
+
+
+
+
+
+

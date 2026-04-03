@@ -1,0 +1,127 @@
+input[type="search"]{
+    padding: 10px;
+    width: 500x;
+}
+
+body{
+    animation: go 10s infinite;
+}
+@keyframes go{
+    0%{background-color: aqua;}
+    25%{background-color: darkseagreen;}
+    50%{background-color: lavender;}
+    100%{background-color: aquamarine;}
+}
+
+
+details{
+    text-align: justify;
+}
+
+summary:hover{
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+
+h2{
+    text-align: justify;
+
+}
+
+i:hover{
+    font-size: large;
+    color: yellow;
+    transform: rotate(360deg);
+    transition: 2s;
+}
+
+h4{
+    color: black;
+}
+
+h4:hover{
+    font-size: large;
+    color: azure;
+}
+
+
+
+
+h6:hover{
+    color: blue;
+}
+
+.nofi{
+    position: fixed;
+    bottom: 270px;
+    right: 25px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.nofic{
+    position: fixed;
+    bottom: 270px;
+    right: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+input[type="submit"]{
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    font-size: medium;
+}
+
+.nof{
+    position: fixed;
+    bottom: 270px;
+    right: 35px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.nof:hover{
+    color: cadetblue;
+}
+
+#noticeBtn{
+    
+    bottom: 270px;
+    right: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.no{
+    position: fixed;
+    bottom: 270px;
+    right: 60px;
+    cursor: pointer;
+    margin: 10px;
+    
+}
+
+
+.nig:hover{
+    color: black;
+}
+
+.Feedback{
+    position: fixed;
+    bottom: 270px;
+    right: 80px;
+    margin: 10ox;
+    top: 625px;
+   
+}
+.an{background-color: white;
+    color: black;
+
+}

@@ -121,12 +121,11 @@ input[type="submit"]:hover{
     top: 625px;
    
 }
-.an{background-color: white;
+.an{
+    background-color: white;
     color: black;
 
 }
-
-
 .bot{
     position: fixed;
     bottom: 280px;
@@ -134,5 +133,4 @@ input[type="submit"]:hover{
     margin: 10px;
     top: 650px;
     color:purple
-}
 }

@@ -126,12 +126,18 @@ input[type="submit"]:hover{
     color: black;
 
 }
-.bot{
+.bot1{
     position: fixed;
     bottom: 140px;
     right: 40px;
     margin: 10px;
     top: 350px;
-    font-size:25px
+    font-size:25px;
     color:blue
 }
+
+.bot{
+    display:block;
+    margin:auto
+}
+    
